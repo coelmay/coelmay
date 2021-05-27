@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coelmay
-- 👀 I’m interested in learning to build using the jamstack
-- 🌱 I’m currently learning danish, turkish, chinese and yiddish, and much more.
-- 💞️ I’m looking to collaborate on something, one day, perhaps
+- 👀 I’m interested in learning to build using the Jamstack
+- 🌱 I’m currently learning Danish, Turkish, Chinese and Yiddish.
+- 💞️ I’m looking to collaborate on something, one day, perhaps.
 - 📫 How to reach me [https://twitter.com/coelmay](https://twitter.com/coelmay)
 
 <!---
