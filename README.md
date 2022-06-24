@@ -1,1 +1,1 @@
-Everything, is archived.
+Everything is archived.
